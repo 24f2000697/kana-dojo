@@ -57,7 +57,7 @@
     "note": "Used for severe winter cold. (Set 1)",
     "id": 6,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -67,7 +67,7 @@
     "note": "Hokkaido intensifier. (Set 1)",
     "id": 7,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -77,7 +77,7 @@
     "note": "Transition/goodbye phrase. (Set 1)",
     "id": 8,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜ばい",
@@ -86,7 +86,7 @@
     "region": "Fukuoka",
     "note": "Assertive friendly ending. (Set 1)",
     "id": 9,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -97,7 +97,7 @@
     "note": "Reason marker in Kyushu. (Set 1)",
     "id": 10,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "よか",
@@ -106,7 +106,7 @@
     "region": "Kyushu",
     "note": "Common Kyushu replacement. (Set 1)",
     "id": 11,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -336,7 +336,7 @@
     "region": "Yamaguchi/Hiroshima",
     "note": "Regional intensifier. (Set 2)",
     "id": 34,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -396,7 +396,7 @@
     "region": "Kansai",
     "note": "Traditional gratitude expression. (Set 2)",
     "id": 40,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -466,7 +466,7 @@
     "region": "Hokkaido",
     "note": "Hokkaido intensifier. (Set 3)",
     "id": 47,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -757,7 +757,7 @@
     "note": "Prohibitive nuance. (Set 4)",
     "id": 76,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんくるないさ",
@@ -797,7 +797,7 @@
     "note": "Traditional gratitude expression. (Set 4)",
     "id": 80,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ほんま",
@@ -806,7 +806,7 @@
     "region": "Kansai",
     "note": "Very common in Osaka/Kyoto speech. (Set 5)",
     "id": 81,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -936,7 +936,7 @@
     "region": "Yamaguchi/Hiroshima",
     "note": "Regional intensifier. (Set 5)",
     "id": 94,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1076,7 +1076,7 @@
     "region": "Hokkaido",
     "note": "Transition/goodbye phrase. (Set 6)",
     "id": 108,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

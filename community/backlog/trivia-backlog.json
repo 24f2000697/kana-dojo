@@ -472,7 +472,7 @@
       "Okonomiyaki"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -487,7 +487,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 36,
@@ -501,7 +501,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 37,
@@ -515,7 +515,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 38,
@@ -529,7 +529,7 @@
     ],
     "correctIndex": 0,
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 39,
@@ -934,7 +934,7 @@
       "Kyushu"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -962,7 +962,7 @@
       "Chankonabe"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1032,7 +1032,7 @@
       "Matsue"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1158,7 +1158,7 @@
       "October"
     ],
     "correctIndex": 1,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1256,7 +1256,7 @@
       "Arctic Ocean"
     ],
     "correctIndex": 2,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1901,7 +1901,7 @@
     ],
     "correctIndex": 0,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 137,
@@ -1942,7 +1942,7 @@
       "Hiroshima"
     ],
     "correctIndex": 0,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

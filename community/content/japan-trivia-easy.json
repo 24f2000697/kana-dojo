@@ -173,5 +173,27 @@
       "Goodbye"
     ],
     "answerExplanation": "Oishii means delicious in Japanese."
+  },
+  {
+  "question": "Which city is known for its beef brand Kobe? (Community variation 59)",
+  "difficulty": "easy",
+  "answers": [
+    "Kobe",
+    "Nagoya",
+    "Kanazawa",
+    "Hiroshima"
+  ],
+  "correctIndex": 0
+},
+  {
+    "question": "Which ocean borders Japan to the east? (Community variation 10)",
+    "difficulty": "easy",
+    "answers": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctIndex": 2
   }
 ]

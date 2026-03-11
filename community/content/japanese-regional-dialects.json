@@ -47,12 +47,40 @@
   "english": "no good",
   "region": "Kansai",
   "note": "Used for prohibition/failure. (Set 4)"
-} ,
+},
   {
   "dialect": "〜へん",
   "standardJapanese": "〜ない",
   "english": "negative form",
   "region": "Kansai",
   "note": "Example: 食べへん = 食べない。 (Set 3)"
+},
+  {
+  "dialect": "なまら",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Hokkaido",
+  "note": "Hokkaido intensifier. (Set 3)"
+},
+{
+  "dialect": "おおきに",
+  "standardJapanese": "ありがとう",
+  "english": "thank you",
+  "region": "Kansai",
+  "note": "Traditional gratitude expression. (Set 2)"
+},
+{
+  "dialect": "したっけ",
+  "standardJapanese": "それじゃあ",
+  "english": "well then/see you",
+  "region": "Hokkaido",
+  "note": "Transition/goodbye phrase. (Set 6)"
+},
+{
+  "dialect": "ほんま",
+  "standardJapanese": "本当に",
+  "english": "really",
+  "region": "Kansai",
+  "note": "Very common in Osaka/Kyoto speech. (Set 5)"
 }
 ]

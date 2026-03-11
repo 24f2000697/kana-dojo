@@ -68,7 +68,7 @@
     "explanation": "Often used as 'try again after failing'. (Set 1)",
     "example": "去年落ちた試験に今年リベンジする。",
     "id": 8,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -87,7 +87,7 @@
     "example": "彼は意外とナイーブな性格だ。",
     "id": 10,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "シール (shiiru)",
@@ -96,7 +96,7 @@
     "example": "ノートにシールを貼った。",
     "id": 11,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ホッチキス (hocchikisu)",
@@ -104,7 +104,7 @@
     "explanation": "ホッチキス means stapler. (Set 1)",
     "example": "資料をホッチキスで留めてください。",
     "id": 12,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -366,7 +366,7 @@
     "example": "祖母に手紙を書きました。",
     "id": 41,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "マンション (manshon)",
@@ -374,7 +374,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 3)",
     "example": "駅前のマンションに住んでいます。",
     "id": 42,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -528,7 +528,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 59,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -537,7 +537,7 @@
     "example": "子どものころからアニメが好きだ。",
     "id": 60,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "手紙 (tegami)",
@@ -546,7 +546,7 @@
     "example": "祖母に手紙を書きました。",
     "id": 61,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "マンション (manshon)",
@@ -564,7 +564,7 @@
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 63,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "スマート (sumaato)",
@@ -573,7 +573,7 @@
     "example": "彼はスマートな着こなしをしている。",
     "id": 64,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "テンション (tenshon)",
@@ -582,7 +582,7 @@
     "example": "ライブでテンションが上がった。",
     "id": 65,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "バイキング (baikingu)",
@@ -599,7 +599,7 @@
     "explanation": "カンニング means cheating on tests. (Set 4)",
     "example": "試験でカンニングしてはいけません。",
     "id": 67,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -708,7 +708,7 @@
     "example": "ペットボトルは分別して捨てる。",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "アニメ (anime)",
@@ -716,7 +716,7 @@
     "explanation": "In Japanese it can refer to animation in general. (Set 4)",
     "example": "子どものころからアニメが好きだ。",
     "id": 80,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -734,7 +734,7 @@
     "explanation": "マンション means apartment building in Japanese. (Set 5)",
     "example": "駅前のマンションに住んでいます。",
     "id": 82,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -771,7 +771,7 @@
     "example": "ホテルの朝食はバイキングです。",
     "id": 86,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "カンニング (kanningu)",
@@ -779,7 +779,7 @@
     "explanation": "カンニング means cheating on tests. (Set 5)",
     "example": "試験でカンニングしてはいけません。",
     "id": 87,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -806,7 +806,7 @@
     "explanation": "Often means sensitive/delicate in Japanese. (Set 5)",
     "example": "彼は意外とナイーブな性格だ。",
     "id": 90,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

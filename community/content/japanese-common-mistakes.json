@@ -53,5 +53,25 @@
     "wrong": "毎日日本語を勉強していますから上手になります。",
     "correct": "毎日日本語を勉強しているので上手になります。",
     "explanation": "ので is smoother/neutral for reason. (Pattern set 1)"
+  },
+  {
+    "wrong": "私は20歳があります。",
+    "correct": "私は20歳です。",
+    "explanation": "In Japanese, age is expressed using 'です', not 'あります'."
+  },
+{
+  "wrong": "これは美味しいだ。",
+  "correct": "これは美味しい。",
+  "explanation": "い-adjectives do not take だ in plain form."
+},
+{
+  "wrong": "私は兄さんが二人います。",
+  "correct": "私は兄が二人います。",
+  "explanation": "Use 兄 for your own older brother. (Pattern set 3)"
+},
+  {
+    "wrong": "日本へ旅行を行きたい。",
+    "correct": "日本へ旅行に行きたい。",
+    "explanation": "Use に行く for purpose. (Pattern set 3)"
   }
 ]

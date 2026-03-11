@@ -20,7 +20,7 @@
   {
     "id": 4,
     "text": "\"〜てもいいです\" means \"it's okay to\" and grants permission.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -74,7 +74,7 @@
   {
     "id": 13,
     "text": "\"〜なければならない\" means \"must\" or \"have to\" do something.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -117,7 +117,7 @@
     "id": 20,
     "text": "\"〜たら\" is a conditional \"if/when\" that also expresses sequence.",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 21,
@@ -272,7 +272,7 @@
   {
     "id": 46,
     "text": "\"〜にする\" means \"decide on\" a choice or selection.",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -290,14 +290,16 @@
   {
     "id": 49,
     "text": "\"〜ながらも\" means \"even while\" or \"though\" (contrast).",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
     "id": 50,
     "text": "\"〜わけではない\" means \"not necessarily\" or \"it's not that\".",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "Kubudak90",
+    "completedPR": 8032
   },
   {
     "id": 51,
@@ -392,7 +394,7 @@
   {
     "id": 66,
     "text": "\"〜に加えて\" means \"in addition to...\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -591,13 +593,13 @@
     "id": 99,
     "text": "\"〜なくてもいい\" means \"don't have to\" and lifts an obligation. (practice variation 14)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 100,
     "text": "\"〜てくれる\" indicates someone does a favor for the speaker. (practice variation 15)",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 101,
@@ -608,7 +610,7 @@
   {
     "id": 102,
     "text": "\"〜てあげる\" shows the speaker does a favor for someone else. (practice variation 17)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -668,7 +670,7 @@
   {
     "id": 112,
     "text": "\"〜ばかり\" means \"just\" (in terms of time) or \"only\" depending on context. (practice variation 27)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

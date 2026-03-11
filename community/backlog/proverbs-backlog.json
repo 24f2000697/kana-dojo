@@ -114,7 +114,7 @@
     "english": "After rain, the ground hardens",
     "meaning": "Adversity builds strength",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 14,
@@ -122,8 +122,10 @@
     "romaji": "Hyakubun wa ikken ni shikazu",
     "english": "Hearing a hundred times is not as good as seeing once",
     "meaning": "Seeing is believing",
-    "completed": false,
-    "issued": false
+    "completed": true,
+    "issued": false,
+    "completedBy": "Kubudak90",
+    "completedPR": 8020
   },
   {
     "id": 15,
@@ -141,7 +143,7 @@
     "english": "Fortune comes to a laughing gate",
     "meaning": "Happiness and good fortune come to those who smile",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 17,
@@ -692,7 +694,7 @@
     "english": "Peek at the sky through a needle's eye",
     "meaning": "A narrow viewpoint leads to poor judgment",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 78,
@@ -701,7 +703,7 @@
     "english": "Hurry to do good",
     "meaning": "If it's worth doing, do it at once",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 79,
@@ -1123,7 +1125,7 @@
     "romaji": "Nakittsura ni hachi",
     "english": "A bee on a crying face",
     "meaning": "Misfortune never comes alone",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1132,7 +1134,7 @@
     "romaji": "Neko no te mo karitai",
     "english": "I'd even borrow a cat's paw",
     "meaning": "Extremely busy",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1142,7 +1144,7 @@
     "english": "Watch others and correct yourself",
     "meaning": "Learn from others' behavior",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 128,
@@ -1205,7 +1207,7 @@
     "english": "Once it passes your throat, you forget the heat",
     "meaning": "People forget hardships once they are over",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 135,
@@ -1448,7 +1450,7 @@
     "english": "An inch ahead is darkness",
     "meaning": "The future is uncertain",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 162,
@@ -1457,7 +1459,7 @@
     "english": "Good fortune comes to a laughing home",
     "meaning": "Happiness invites luck",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 163,
@@ -1466,7 +1468,7 @@
     "english": "Bamboo shoots after rain",
     "meaning": "Things spring up rapidly",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 164,

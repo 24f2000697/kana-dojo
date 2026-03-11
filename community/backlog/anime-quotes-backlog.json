@@ -56,7 +56,7 @@
     "english": "Good grief.",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -536,7 +536,7 @@
     "english": "Yes! Yes! Yes! Yes! (alt wording 2)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "DIO",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -566,7 +566,7 @@
     "english": "I, Giorno Giovanna, have a dream! (alt wording 5)",
     "anime": "JoJo's Bizarre Adventure: Golden Wind",
     "character": "Giorno Giovanna",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1116,7 +1116,7 @@
     "english": "Ora ora ora ora ora! (alt wording 8) (alt wording 60)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1156,7 +1156,7 @@
     "english": "I'm going to stop being human, JoJo! (alt wording 12) (alt wording 64)",
     "anime": "JoJo's Bizarre Adventure: Phantom Blood",
     "character": "Dio Brando",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1227,7 +1227,9 @@
     "anime": "Fist of the North Star",
     "character": "Shin",
     "issued": false,
-    "completed": false
+    "completed": true,
+    "completedBy": "Kubudak90",
+    "completedPR": 8031
   },
   {
     "id": 124,
@@ -1246,7 +1248,7 @@
     "english": "If you give up, that's the end of the game. (alt wording 21) (alt wording 73)",
     "anime": "Slam Dunk",
     "character": "Kaede Rukawa",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1316,7 +1318,7 @@
     "english": "Fosh fosh fosh fosh. (alt wording 28) (alt wording 80)",
     "anime": "One Piece",
     "character": "Kozuki Sukiyaki",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
