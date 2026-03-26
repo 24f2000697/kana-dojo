@@ -1529,7 +1529,7 @@
     "english": "You can’t get the tiger’s cub without entering the lair",
     "meaning": "No reward without risk",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 171,
@@ -1537,7 +1537,7 @@
     "romaji": "Ashita wa ashita no kaze ga fuku",
     "english": "Tomorrow’s wind will blow tomorrow",
     "meaning": "Don’t worry too much about the future",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1547,7 +1547,7 @@
     "english": "With comfort comes hardship",
     "meaning": "Life has ups and downs",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 173,
