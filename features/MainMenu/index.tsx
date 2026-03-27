@@ -13,6 +13,7 @@ import {
   Heart,
   Sparkle,
   FileDiff,
+  CircleHelp,
 } from 'lucide-react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDiscord, faGithub } from '@fortawesome/free-brands-svg-icons';
@@ -96,6 +97,7 @@ const MainMenu = () => {
   ];
 
   const legalLinks = [
+    { name: 'about', href: '/about', icon: CircleHelp },
     { name: 'terms', href: '/terms', icon: ScrollText },
     { name: 'privacy', href: '/privacy', icon: Cookie },
     { name: 'security', href: '/security', icon: FileLock2 },
